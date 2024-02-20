@@ -62,7 +62,7 @@
     "nozzleCondition": {
       "normalRange": [0, 1],
       "abnormalRange": [2, 3],
-      "optimalRange": [0, 0]
+      "optimalRange": [4, 5]
     }
   },
   "assemblyLine": {
@@ -93,7 +93,7 @@
     "cameraCalibration": {
       "normalRange": [0, 1],
       "abnormalRange": [2, 3],
-      "optimalRange": [0, 0]
+      "optimalRange": [4, 5]
     },
     "lightIntensity": {
       "normalRange": [90.0, 95.0],

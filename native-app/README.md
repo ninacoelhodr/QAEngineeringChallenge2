@@ -49,6 +49,16 @@ The app has the following screens and features:
 
 You are free to choose how you'd like to test this repo, think about options and approaches and build out (and document!) what you think would be an appropriate testing infrastructure. Hint: think about a combo of unit tests and integration tests, there is an android APK in the root of the exercise if it's helpful.
 
+All the tests are added on the tests folder
+
+## Run Tests
+ - Up the backend
+ - Up the app
+
+   ```bash
+   yarn test
+   ```
+
 ## Customization
 
 If you would like, feel free to modify the app as needed.
